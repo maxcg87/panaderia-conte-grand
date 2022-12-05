@@ -1,6 +1,8 @@
 
 
-
+*{
+  box-sizing: border-box;
+}
 
 .card-title{
     color: black;
@@ -169,7 +171,8 @@ margin-bottom: 30PX;
   border-radius: 150px;
   bottom: 0px;
   right: 10px;
- object-fit:cover;
+  object-fit:cover;
+  margin-bottom: 60px;
  
 
 
